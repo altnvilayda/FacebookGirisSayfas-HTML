@@ -1,0 +1,50 @@
+
+
+body{
+	background-image: url('../img/bg.JPG');
+	background-repeat: repeat-x;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 19px;
+	line-height: 15px;
+}
+a{
+	color: #365899; /*rgb kod karsılığı renk*/
+}
+small{
+	font-size: 12px;
+}
+select{
+	width: 60px;
+	height: 30px;
+	font-size: 12px;
+}
+.inputGiris{
+	width: 145px;
+	height: 22px;
+}
+.btnGiris{
+	color: #fff;
+	width: 65px;
+	height: 22px;
+	border: 1px solid #555555;
+	background-color: #4267B2;
+	padding: 0 3px;		/*yukardan-aşağıya / sağdan sola*/
+	font-size: 12px;
+	font-weight: bold;
+}
+.aciklama1{
+	color: #0e385f;
+	font-size: 20px;
+	font-weight: bold;
+	line-height: 29px;	/*satırlar arası boşluk*/
+	margin-top: 40px;	/*menümüzden ne kadar boşluk sonra başladığı*/
+	width: 450px;		/* yazımızın toplam genişliği*/
+	word-spacing: -1px;	/*harflerin birbirine daha yakın olması sağlanır.*/
+}
+.btnKaydol{
+	background-color: #5F9B4C;
+	font-size: 19px;
+	width: 195px;
+	height: 40px;
+	border: 1px solid #777777;
+}
